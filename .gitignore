@@ -1,0 +1,40 @@
+# MDK-ARM / Keil
+MDK-ARM/DebugConfig/
+MDK-ARM/Listings/
+MDK-ARM/Objects/
+MDK-ARM/RTE/
+*.o
+*.d
+*.crf
+*.axf
+*.htm
+*.lnp
+*.lst
+*.map
+*.dep
+*.uvguix.*
+*.bak
+*.uvoptx
+*.scvd
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+Build/
+*.hex
+*.bin
+*.elf
+
+# STM32CubeMX / STM32CubeIDE
+*.mxproject
+.settings/
+.project
+.cproject
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
